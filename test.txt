@@ -1,2 +1,3 @@
 line 1. this experiment tests the flow of which branch is merging into which branch.
 line 2.
+line 3.
